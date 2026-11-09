@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Kriss 👋
 
-<!--
-**silvertejp89/silvertejp89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer moving into application security. I build web apps
+with TypeScript, React and Node, and I'm studying cybersecurity.
 
-Here are some ideas to get you started:
+**Right now I'm** revisiting my earlier projects with a security review:
+finding the issues, fixing them, and documenting the before and after.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**I'm looking for** a junior role in application security or secure
+development.
+
+📂 Portfolio: https://krissportfolio.netlify.app
+💼 LinkedIn: https://www.linkedin.com/in/krissstockhaus 
